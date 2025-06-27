@@ -1,0 +1,1 @@
+The Professionnel_Civi app is specifically designed to support job seekers (unemployed individuals) and graduate students in their professional integration. Our goal is to help them effectively prepare for job interviews and improve their employability through innovative tools.
